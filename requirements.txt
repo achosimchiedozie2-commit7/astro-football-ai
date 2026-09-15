@@ -1,2 +1,5 @@
-     python-telegram-bot==20.7
-     requests
+python-telegram-bot==22.3
+requests>=2.31.0
+numpy
+pandas
+scikit-learn
